@@ -1,0 +1,2 @@
+# mvcedittext
+metin duzenle
